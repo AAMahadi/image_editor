@@ -18,10 +18,23 @@ The editor supports a variety of image processing tools and transformations, all
 *   💧 **Filters:** Apply custom Blur or Sharpen algorithms to your images.
 *   💾 **File Export:** Save your edited output to disk via a custom save interface.
 
-### Feature Previews
-| Blur | Crop | Save Interface |
+### 🖼️ Feature Previews
+
+| Grayscale | Color Invert | Brightness |
 |:---:|:---:|:---:|
-| ![Blur](assets/blur.png) | ![Crop](assets/crop.png) | ![Save](assets/saveinterface.png) |
+| ![Grayscale](assets/grayscale.png) | ![Color Invert](assets/colorinvert.png) | ![Brightness](assets/brightness.png) |
+
+| Horizontal Flip | Vertical Flip | Rotation |
+|:---:|:---:|:---:|
+| ![Horizontal Flip](assets/horizontalflip.png) | ![Vertical Flip](assets/verticalflip.png) | ![Rotation](assets/rotation.png) |
+
+| Blur | Sharpen | Crop |
+|:---:|:---:|:---:|
+| ![Blur](assets/blur.png) | ![Sharpen](assets/sharp.png) | ![Crop](assets/crop.png) |
+
+| Image Loading | Save Interface | |
+|:---:|:---:|:---:|
+| ![Loading](assets/imgaeloading.png) | ![Save](assets/saveinterface.png) | |
 
 *(Visual assets sourced from the `assets/` directory)*
 
