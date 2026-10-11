@@ -1,0 +1,9 @@
+# Executable and object files
+editor
+src/*.o
+
+
+output-image
+
+libs/raylib/src/*.o
+libs/raylib/src/*.a
