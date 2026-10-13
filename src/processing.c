@@ -1,7 +1,7 @@
 #include "processing.h"
 
 void saveBMP(const Image *myImage, const char *filenameBuffer){
-    char filename[512] = "../output-images/";
+    char filename[512] = "./output-images/";
     strcat(filename, filenameBuffer);
     if(ExportImage(*myImage, filename)) {
         TraceLog(LOG_INFO, "sucessfully saved image as %s", filenameBuffer);
